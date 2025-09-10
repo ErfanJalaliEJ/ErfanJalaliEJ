@@ -6,9 +6,9 @@ Short 1–2 line intro about who you are and what you build.
 ---
 
 ## 🔧 Skills
-- **Languages:** JavaScript, Python, C#
-- **Frameworks / Tools:** React, Node.js, Unity, Git, Docker
-- **Other:** REST APIs, TDD, Agile
+- **Languages:**  , C#
+- **Frameworks / Tools:** , Unity, Git,
+- **Other:** REST APIs,
 
 ---
 
