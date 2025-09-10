@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi — I’m Erfan 👋
 
-<!--
-**ErfanJalaliEJ/ErfanJalaliEJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Job title / short tagline**  
+Short 1–2 line intro about who you are and what you build.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages:** JavaScript, Python, C#
+- **Frameworks / Tools:** React, Node.js, Unity, Git, Docker
+- **Other:** REST APIs, TDD, Agile
+
+---
+
+## 🧩 Projects
+### [Project One](https://github.com/your-username/project-one)  
+Short 1-line summary — what it does and tech used.
+
+### [Project Two](https://github.com/your-username/project-two)  
+Short 1-line summary.
+
+---
+
+## ✉️ Contact
+- Email: [you@example.com](mailto:you@example.com)  
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+## ⚡ Fun
+- Quick personal line (hobby, 1 fun fact)
+
