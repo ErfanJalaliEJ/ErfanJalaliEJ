@@ -7,7 +7,7 @@ Short 1–2 line intro about who you are and what you build.
 
 ## 🔧 Skills
 - **Languages:**  , C#
-- **Frameworks / Tools:** , Unity, Git,
+- **Frameworks / Tools:** , Unity, Git, Android Studio
 - **Other:** REST APIs,
 
 ---
